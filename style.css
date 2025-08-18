@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Gilroy";
-    src: url(../Project6/Fonts/Gilroy/Gilroy-Medium.ttf) format('truetype');
+    src: url(./Resources/Gilroy-Medium.ttf) format('truetype');
 }  
 * {
     margin: 0;
