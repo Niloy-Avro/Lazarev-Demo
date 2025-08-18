@@ -207,6 +207,7 @@ nav button svg {
     padding-top: 2vw;
     padding-bottom: 5vw;
     border-bottom: 1px solid #fff;
+    cursor: pointer;
 }
 .right-elem h2 {
     font-size: 1.4vw;
@@ -220,4 +221,5 @@ nav button svg {
     position: absolute;
     opacity: 0;
     scale: 0;
+    pointer-events: none;
 }
